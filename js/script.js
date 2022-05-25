@@ -16,8 +16,7 @@ function loaded() {
 
 var x = 0;
 
-var titleText = ["|",
-                " ",
+var titleText = [
                 "A",
                 "An",
                 "Ang",
@@ -55,7 +54,7 @@ var titleText = ["|",
                 "Rose",
                 "ose",
                 "se",
-                "e",, ];
+                "e", ];
 
 
 function loop() {
