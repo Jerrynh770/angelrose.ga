@@ -1,2 +1,1 @@
-u must use dt 
-dont use hide shot
+cfg loc : C:\AngelRose.ga
