@@ -1,6 +1,6 @@
 git add .
 git commit -m "Add existing file"
-git push origin main
+git push -f origin main
 @echo off
 
 echo Push File Successfully
