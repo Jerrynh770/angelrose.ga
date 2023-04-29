@@ -48,8 +48,8 @@ html {
 body {
     height: 100vh;
     font-family: 'Montserrat', sans-serif;
-    font-size: 5px;
-    font-weight: 400;
+    font-size: 12px;
+    font-weight: normal;
     color: white;
     background-color: #181824;
     overflow-x: hidden;
